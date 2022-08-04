@@ -1,2 +1,2 @@
-# site-pessoal
+# Meu Site Pessoal
 Este site estou desenvolvendo com o intuito de ser uma "cartão de visita", com as techs que domino até o momento, skills, formação...
