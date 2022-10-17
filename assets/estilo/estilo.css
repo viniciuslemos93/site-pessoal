@@ -148,7 +148,7 @@ li {
 
 .projetos {
     margin-top: 10px;
-    width: 750px;
+    max-width: 750px;
     border: 2px solid var(--cor_media);
     border-radius: 10px;
     
@@ -174,7 +174,6 @@ li {
         width: 100vh;
         display: flex;
         margin: auto;
-        
     }
     .contato {
         display: flex;
@@ -184,5 +183,8 @@ li {
     }
     .menu > a {
         font-size: 1em;        
-    }    
+    }
+    .projetos {
+        width: 320px;
+    }
 }
